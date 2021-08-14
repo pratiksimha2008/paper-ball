@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Pro_c21_SA-main",
+			"path": "..\\..\\Downloads\\Pro_c21_SA-main"
+		},
+		{
+			"name": "Pro_c21_SA-main",
+			"path": "..\\Pro_c21_SA-main"
+		},
+		{
+			"name": "c 22",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pro_c21_SA-main"
+	}
+}
